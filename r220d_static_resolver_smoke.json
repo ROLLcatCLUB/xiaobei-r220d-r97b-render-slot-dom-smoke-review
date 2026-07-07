@@ -1,0 +1,79 @@
+{
+  "stage": "static_resolver_smoke",
+  "resolver_runtime_present": true,
+  "bind_function_present": true,
+  "audit": {
+    "stage": "1013R_R220B_R97B_SHELL_LAYER_SLOT_OWNERSHIP_BINDING",
+    "target_shell": "R97B",
+    "resolved_shell_layers": {
+      "app-shell": true,
+      "workspace-shell": true,
+      "render-surface": true,
+      "lesson-content-renderer": true,
+      "right-rail": true,
+      "bottom-xiaojiao": true
+    },
+    "resolved_render_slots": {
+      "app-topbar": true,
+      "workspace-shell": true,
+      "workspace-context-bar": true,
+      "render-surface-canvas": true,
+      "render-stage": true,
+      "active-render-layer": true,
+      "left-unit-tree": true,
+      "lesson-body": true,
+      "teaching-process": true,
+      "right-rail": true,
+      "bottom-xiaojiao": true,
+      "floating-inspector": true
+    },
+    "preview_only": true,
+    "field_rendering": false,
+    "formal_apply": false
+  },
+  "parent_slots": {
+    "lesson-body": {
+      "exists": true,
+      "tag": "SECTION",
+      "id": "",
+      "className": "nb-workspace",
+      "shellLayer": "lesson-content-renderer",
+      "renderSlot": "lesson-body",
+      "r220bSlotId": "lesson_body_workspace",
+      "textSample": "第二单元 多彩的世界 2-1《色彩的渐变》 导入教案 进入编辑 返回周课表 查看状态 预览中 已知材料 5 缺口 4 派生对象 4 协议已接入确认前不生效1级平台壳层2级备课室3级工具区4级内容区 查看 编辑 一、本课依据 进入编辑 lesson_body 本课对应三年级第二单元《多彩的世界》第1课《色彩的渐变》，教材"
+    },
+    "teaching-process": {
+      "exists": true,
+      "tag": "SECTION",
+      "id": "nb-section-teaching-process",
+      "className": "nb-doc-section nb-process-section",
+      "shellLayer": "lesson-content-renderer",
+      "renderSlot": "teaching-process",
+      "r220bSlotId": "",
+      "textSample": "六、教学过程 重点关注课堂如何推进 观察比较型 · 约5分钟 原模板 · 已在原模板中 1. 看见渐变 进入编辑 引导学生观察生活和教材图中的色彩连续变化，初步建立渐变感知。 师教师组织 静看图片，先找颜色从哪里变到哪里用手指出方向，再用一句话说出来用“慢慢变”引出本课的渐变 生学生学习 能指出颜色变化方向，并用“从_"
+    },
+    "right-rail": {
+      "exists": true,
+      "tag": "DIV",
+      "id": "",
+      "className": "courseware-rail is-light-preview",
+      "shellLayer": "right-rail",
+      "renderSlot": "right-rail",
+      "r220bSlotId": "right_rail_assistant_surface",
+      "textSample": "大屏草稿 轻预览 课件制作 P6 课堂联动 preview only 1. 看见渐变 · S01 / S02 屏幕：静看图片，找到颜色慢慢变；从哪里到哪里，说一句 材料：任务1 找一找：颜色从哪里变到哪里｜评价：看见变化 小教：先让学生指出起点和终点，不急着讲术语。 2. 分清亮暗与鲜灰 · S03 / S04 屏幕："
+    },
+    "bottom-xiaojiao": {
+      "exists": true,
+      "tag": "SECTION",
+      "id": "",
+      "className": "xiaobei-chat-entry",
+      "shellLayer": "bottom-xiaojiao",
+      "renderSlot": "bottom-xiaojiao",
+      "r220bSlotId": "bottom_xiaojiao_composer",
+      "textSample": "小 小教 小 上传资料 语音输入 发送"
+    }
+  },
+  "resolver_parent_slots_pass": true,
+  "field_rendering": false,
+  "formal_apply": false
+}
