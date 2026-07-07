@@ -1,0 +1,81 @@
+{
+  "package": "1013R_R220D_R97B_RENDER_SLOT_DOM_SMOKE",
+  "created_at": "2026-07-08",
+  "purpose": "Real browser DOM smoke for R97B render slots after R220B shell-slot ownership and R220C single_lesson_template binding contract.",
+  "target_shell": "R97B working shell",
+  "main_code_target": "outputs/PREP_ROOM_RENDER_CANVAS_DEEPEN_V1/1013R_R97B_TEACHER_SHELL_EXPERIENCE_POLISH_AND_STALE_CONTENT_CLEANUP/r97b_clean_shell_context_preview.html",
+  "previous_stages": [
+    "1013R_R220B_R97B_SHELL_LAYER_SLOT_OWNERSHIP_BINDING",
+    "1013R_R220C_SINGLE_LESSON_TEMPLATE_TO_RENDER_SURFACE_BINDING_CONTRACT"
+  ],
+  "runner": {
+    "mode": "real_browser_headless_chrome_with_playwright_core",
+    "backend_route_called": false,
+    "payload_mode": "local_readonly_fixture"
+  },
+  "right_rail_scope": {
+    "classification": "reserved auxiliary surface",
+    "content_semantics_out_of_scope": true,
+    "big_screen_content_model_out_of_scope": true,
+    "future_line": "R230_BIG_SCREEN_AND_RIGHT_RAIL_AUX_SURFACE"
+  },
+  "included_files": [
+    "README_FOR_GPT_REVIEW.md",
+    "PACKAGE_MANIFEST.json",
+    "r220d_scope_note_right_rail_aux_surface.md",
+    "r220d_dom_smoke_environment.md",
+    "r220d_static_resolver_smoke.json",
+    "r220d_dynamic_child_slot_smoke.json",
+    "r220d_uploaded_payload_rebind_smoke.json",
+    "r220d_teaching_process_dom_smoke.json",
+    "r220d_right_rail_bottom_xiaojiao_boundary_smoke.json",
+    "r220d_wrong_shell_guard_smoke.json",
+    "r220d_wrong_shell_guard_report.md",
+    "r220d_dom_smoke_summary.json",
+    "r220d_dom_smoke_summary.md",
+    "validate_1013R_R220D_r97b_render_slot_dom_smoke_result.json",
+    "runner/run_1013R_R220D_r97b_render_slot_dom_smoke.js",
+    "validator/validate_1013R_R220D_r97b_render_slot_dom_smoke.py",
+    "PACKAGE_FILE_INDEX.txt",
+    "SHA256SUMS.txt"
+  ],
+  "external_integrity_files": [
+    "ZIP_SHA256.txt"
+  ],
+  "pass_conditions": [
+    "resolver_parent_slots_pass",
+    "dynamic_child_slots_pass",
+    "uploaded_payload_rebind_pass",
+    "teaching_process_dom_pass",
+    "right_rail_slot_isolation_pass",
+    "bottom_xiaojiao_slot_isolation_pass",
+    "wrong_shell_guard_pass",
+    "source_gap_as_teaching_body=0",
+    "provisional_without_teacher_review_label=0",
+    "field_rendering=false",
+    "formal_apply=false",
+    "no_write=true",
+    "no_R95=true",
+    "no_model_provider_call=true"
+  ],
+  "boundary": {
+    "dom_smoke_only": true,
+    "real_field_rendering": false,
+    "new_html_shell": false,
+    "R21_modified": false,
+    "R36_modified": false,
+    "R36_M1_R100_P1_promoted": false,
+    "formal_apply": false,
+    "database_written": false,
+    "feishu_written": false,
+    "memory_written": false,
+    "pptx_pdf_docx_generated": false,
+    "R95_executed": false,
+    "provider_model_called": false,
+    "xiaojiao_real_modification": false,
+    "field_level_editing": false,
+    "R201F_R201H_main_chain_replaced": false,
+    "right_rail_content_model_defined": false,
+    "big_screen_content_model_defined": false
+  }
+}
