@@ -1,0 +1,11 @@
+{
+  "stage": "wrong_shell_guard",
+  "target_path": "outputs/PREP_ROOM_RENDER_CANVAS_DEEPEN_V1/1013R_R97B_TEACHER_SHELL_EXPERIENCE_POLISH_AND_STALE_CONTENT_CLEANUP/r97b_clean_shell_context_preview.html",
+  "target_is_r97b": true,
+  "target_is_not_r100_p1": true,
+  "target_is_not_r36": true,
+  "target_is_not_m1": true,
+  "body_current_shell_marker": "R97B",
+  "r220b_contract_marker": "true",
+  "wrong_shell_guard_pass": true
+}
