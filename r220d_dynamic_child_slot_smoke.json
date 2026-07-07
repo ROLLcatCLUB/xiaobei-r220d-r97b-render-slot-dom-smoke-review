@@ -1,0 +1,105 @@
+{
+  "stage": "dynamic_child_slot_smoke",
+  "child_slots": {
+    "basis": {
+      "slot": "basis",
+      "exists": true,
+      "tag": "SECTION",
+      "id": "nb-section-basis",
+      "className": "nb-doc-section ",
+      "shellLayer": "lesson-content-renderer",
+      "renderSlot": "basis",
+      "insideLessonBody": true,
+      "insideTeachingProcess": false,
+      "textSample": "一、本课依据 进入编辑 lesson_body 本课对应三年级第二单元《多彩的世界》第1课《色彩的渐变》，教材页码为第6页。 教材呈现自然中的色彩渐变、色彩明度与纯度变化、渐变排列游戏和学生作品。 本地旧 AI 教学资料只能作为渐变技法参考，不能作为教材标准或字段标准。 教材依据"
+    },
+    "analysis": {
+      "slot": "analysis",
+      "exists": true,
+      "tag": "SECTION",
+      "id": "nb-section-analysis",
+      "className": "nb-doc-section ",
+      "shellLayer": "lesson-content-renderer",
+      "renderSlot": "analysis",
+      "insideLessonBody": true,
+      "insideTeachingProcess": false,
+      "textSample": "二、学情分析 进入编辑 三年级学生能直观看到颜色深浅、浓淡和鲜灰差异，但容易把渐变理解为把几种颜色并排涂上去。 他们需要通过色卡排列、颜料试色或纸条排序，把颜色慢慢变化的规律变成可操作步骤。 本版学情是备课预设，后续应接入课堂记录和教师确认修正。 待确认"
+    },
+    "goals": {
+      "slot": "goals",
+      "exists": true,
+      "tag": "SECTION",
+      "id": "nb-section-goals",
+      "className": "nb-doc-section ",
+      "shellLayer": "lesson-content-renderer",
+      "renderSlot": "goals",
+      "insideLessonBody": true,
+      "insideTeachingProcess": false,
+      "textSample": "三、教学目标 进入编辑 观察自然和作品中的色彩渐变，知道明度、纯度会影响渐变效果。 能用调色、拼摆或绘画方式表现有秩序的色彩渐变。 感受色彩渐变带来的节奏、层次和视觉美感。 待确认"
+    },
+    "keypoints": {
+      "slot": "keypoints",
+      "exists": true,
+      "tag": "SECTION",
+      "id": "nb-section-keypoints",
+      "className": "nb-doc-section ",
+      "shellLayer": "lesson-content-renderer",
+      "renderSlot": "keypoints",
+      "insideLessonBody": true,
+      "insideTeachingProcess": false,
+      "textSample": "四、教学重难点 进入编辑 重点：发现色彩由深到浅、由鲜到灰、由一种颜色逐步过渡到另一种颜色的变化。 难点：让渐变有规律、有层次，不变成随意涂色或简单排色。 待确认"
+    },
+    "preparation": {
+      "slot": "preparation",
+      "exists": true,
+      "tag": "SECTION",
+      "id": "nb-section-preparation",
+      "className": "nb-doc-section ",
+      "shellLayer": "lesson-content-renderer",
+      "renderSlot": "preparation",
+      "insideLessonBody": true,
+      "insideTeachingProcess": false,
+      "textSample": "五、教学准备 进入编辑 教师准备教材页图、渐变色阶示例、试色纸和可视化调色步骤。 学生准备水彩笔、油画棒或水粉材料，保留试色过程作为证据。 待确认"
+    },
+    "assessment": {
+      "slot": "assessment",
+      "exists": true,
+      "tag": "SECTION",
+      "id": "nb-section-assessment",
+      "className": "nb-doc-section ",
+      "shellLayer": "lesson-content-renderer",
+      "renderSlot": "assessment",
+      "insideLessonBody": true,
+      "insideTeachingProcess": false,
+      "textSample": "七、学习单与评价 进入编辑 学习单只记录色阶顺序、调色发现和一次修改理由。 评价看试色证据、渐变秩序、作品应用和表达说明，不只看画面是否漂亮。 待确认"
+    },
+    "teaching-process": {
+      "slot": "teaching-process",
+      "exists": true,
+      "tag": "SECTION",
+      "id": "nb-section-teaching-process",
+      "className": "nb-doc-section nb-process-section",
+      "shellLayer": "lesson-content-renderer",
+      "renderSlot": "teaching-process",
+      "insideLessonBody": true,
+      "insideTeachingProcess": true,
+      "textSample": "六、教学过程 重点关注课堂如何推进 观察比较型 · 约5分钟 原模板 · 已在原模板中 1. 看见渐变 进入编辑 引导学生观察生活和教材图中的色彩连续变化，初步建立渐变感知。 师教师组织 静看图片，先找颜色从哪里变到哪里用手指出方向，再用一句话说出来用“慢慢变”引出本课的渐变 生"
+    },
+    "teaching-process-episodes": {
+      "slot": "teaching-process-episodes",
+      "exists": true,
+      "tag": "DIV",
+      "id": "",
+      "className": "nb-readable-process",
+      "shellLayer": "",
+      "renderSlot": "teaching-process-episodes",
+      "insideLessonBody": true,
+      "insideTeachingProcess": true,
+      "textSample": "观察比较型 · 约5分钟 原模板 · 已在原模板中 1. 看见渐变 进入编辑 引导学生观察生活和教材图中的色彩连续变化，初步建立渐变感知。 师教师组织 静看图片，先找颜色从哪里变到哪里用手指出方向，再用一句话说出来用“慢慢变”引出本课的渐变 生学生学习 能指出颜色变化方向，并用“"
+    }
+  },
+  "dynamic_child_slots_pass": true,
+  "no_frontend_content_creation": true,
+  "field_rendering": false,
+  "formal_apply": false
+}
