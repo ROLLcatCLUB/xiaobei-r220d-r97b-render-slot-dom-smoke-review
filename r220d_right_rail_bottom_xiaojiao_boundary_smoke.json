@@ -1,0 +1,55 @@
+{
+  "stage": "right_rail_bottom_xiaojiao_slot_isolation_smoke",
+  "right_rail_content_semantics_out_of_scope": true,
+  "big_screen_content_model_out_of_scope": true,
+  "right_rail": {
+    "exists": true,
+    "render_slot": "right-rail",
+    "preview_only": true,
+    "default_not_full_lesson_summary_marker": true,
+    "text_sample": "当前环节辅助 只读判断 课件制作 导入理解与字段依据 来自 R114A/B/C，只读展示；不覆盖旧 R111 字段桥，不写入正式备课。 理解图 PASS_WITH_GAPS 执行地图 PASS_WITH_GAPS 字段投影 PASS_WITH_GAPS R200C课标 pending R200B候选 pending 教学逻辑 理解图尚未形成稳定核心变化。 污染防护：需教师关注；字段投影：已生成候选但未应用到页面字段。 R200C 课标候选切片 R200C 状态：未绑定；仍显示",
+    "content_semantics_out_of_scope": true,
+    "inside_main_body": false,
+    "legacy_dirty_hits_in_right_rail": [
+      "大屏草稿",
+      "课件制作",
+      "补素材",
+      "比较两组颜色",
+      "对应屏"
+    ]
+  },
+  "bottom_xiaojiao": {
+    "exists": true,
+    "render_slot": "bottom-xiaojiao",
+    "preview_only": true,
+    "context_summary_exists": false,
+    "text_sample": "小 小教 小 上传资料 语音输入 发送",
+    "content_semantics_out_of_scope": true,
+    "inside_main_body": false
+  },
+  "teacher_main_source_selectors": [
+    ".nb-doc-body-surface",
+    ".nb-doc-section",
+    "#nb-section-teaching-process",
+    ".nb-readable-process"
+  ],
+  "teacher_main_source_excludes_right_rail": true,
+  "legacy_dirty_hits_in_main_body": [],
+  "forbidden_runtime": {
+    "formal_apply": false,
+    "model_called": false,
+    "field_projection_applied_to_current_lesson": false
+  },
+  "no_write": true,
+  "right_rail_slot_exists": true,
+  "legacy_big_screen_content_not_promoted": true,
+  "right_rail_not_teacher_main_source": true,
+  "right_rail_does_not_write_main_body": true,
+  "dirty_legacy_right_rail_hidden_or_ignored": true,
+  "right_rail_slot_isolation_pass": true,
+  "bottom_xiaojiao_slot_exists": true,
+  "bottom_xiaojiao_does_not_write_main_body": true,
+  "bottom_xiaojiao_slot_isolation_pass": true,
+  "field_rendering": false,
+  "formal_apply": false
+}
