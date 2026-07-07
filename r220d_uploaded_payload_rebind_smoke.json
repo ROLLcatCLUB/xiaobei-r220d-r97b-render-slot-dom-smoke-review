@@ -1,0 +1,32 @@
+{
+  "stage": "uploaded_payload_rebind_smoke",
+  "endpoint": "/api/prep-room/uploaded-lesson-document-preview",
+  "apply_backend_payload_error": "",
+  "parent_slots_before_payload": {
+    "lesson-body": true,
+    "teaching-process": true,
+    "right-rail": true,
+    "bottom-xiaojiao": true
+  },
+  "parent_slots_after_payload": {
+    "lesson-body": true,
+    "teaching-process": true,
+    "right-rail": true,
+    "bottom-xiaojiao": true
+  },
+  "ui_upload_path_used": true,
+  "fetch_intercept_count": 1,
+  "preview_observed": true,
+  "template_episode_count": 2,
+  "preview_flags": {
+    "preview_only": true,
+    "formal_apply": false,
+    "model_called": false,
+    "field_projection_applied_to_current_lesson": false
+  },
+  "uploaded_payload_rebind_pass": true,
+  "field_rendering": false,
+  "formal_apply": false,
+  "network_requests_during_payload": [],
+  "no_backend_network_call": true
+}
